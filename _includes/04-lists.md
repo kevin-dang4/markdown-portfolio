@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Food
+  * Chips
+  * Pho
+* Video Games
+  * Fire Emblem
+  * Persona
